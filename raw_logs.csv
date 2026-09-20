@@ -1,0 +1,12 @@
+timestamp,user_id,role,table,row_count,sensitive_tier,is_off_hours,anjected_anomaly
+2026-09-01 10;00:00,U001,support_agent,sensitive_data,58,Restricted,0,
+2026-09-01 10;00:00,U002,finance,sensitive_data,127,Restricted,0,
+2026-09-02 10;00:00,U001,support_agent,sensitive_data,115,Restricted,0,
+2026-09-02 10;00:00,U002,finance,sensitive_data,93,Restricted,0,
+2026-09-03 10;00:00,U001,support_agent,sensitive_data,93,Restricted,0,
+2026-09-03 10;00:00,U002,finance,sensitive_data,135,Restricted,0,
+2026-09-04 10;00:00,U001,support_agent,sensitive_data,58,Restricted,0,
+2026-09-04 10;00:00,U002,finance,sensitive_data,119,Restricted,0,
+2026-09-05 10;00:00,U001,support_agent,sensitive_data,70,Restricted,0,
+2026-09-05 10;00:00,U002,finance,sensitive_data,59,Restricted,0,
+,U001,support_agent,sensitive_data,5000,Restricted,1,volume spike
