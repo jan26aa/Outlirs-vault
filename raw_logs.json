@@ -1,0 +1,69 @@
+[
+  {
+    "user_id": "U001",
+    "role": "support_agent",
+    "day": 0,
+    "row_count": 58
+  },
+  {
+    "user_id": "U002",
+    "role": "finance",
+    "day": 0,
+    "row_count": 127
+  },
+  {
+    "user_id": "U001",
+    "role": "support_agent",
+    "day": 1,
+    "row_count": 115
+  },
+  {
+    "user_id": "U002",
+    "role": "finance",
+    "day": 1,
+    "row_count": 93
+  },
+  {
+    "user_id": "U001",
+    "role": "support_agent",
+    "day": 2,
+    "row_count": 93
+  },
+  {
+    "user_id": "U002",
+    "role": "finance",
+    "day": 2,
+    "row_count": 135
+  },
+  {
+    "user_id": "U001",
+    "role": "support_agent",
+    "day": 3,
+    "row_count": 58
+  },
+  {
+    "user_id": "U002",
+    "role": "finance",
+    "day": 3,
+    "row_count": 119
+  },
+  {
+    "user_id": "U001",
+    "role": "support_agent",
+    "day": 4,
+    "row_count": 70
+  },
+  {
+    "user_id": "U002",
+    "role": "finance",
+    "day": 4,
+    "row_count": 59
+  },
+  {
+    "user_id": "U001",
+    "role": "support_agent",
+    "day": 3,
+    "row_count": 5000,
+    "anjected_anomaly": "volume spike"
+  }
+]
